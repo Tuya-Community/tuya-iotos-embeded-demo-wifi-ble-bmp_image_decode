@@ -1,4 +1,4 @@
-# Tuya IoTOS Embeded Demo WiFi & BLE Wireless Portable Label Printer 
+# Tuya IoTOS Embeded Demo WiFi & BLE BMP Image Decode 
 
 [English](./README.md) | [中文](./README_zh.md) 
 
